@@ -1,1 +1,20 @@
+# Arquivos compilados do Java
 *.class
+*.jar
+*.war
+
+# Pastas de output de IDEs comuns
+bin/
+target/
+build/
+out/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração de IDEs
+.idea/
+.vscode/
+*.iml
+*.project
+*.settings
